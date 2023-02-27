@@ -38,3 +38,24 @@ h3{
     text-align: left;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;;
 }
+a{
+    text-decoration: none;
+    color: black;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+.chapter{
+    
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+p{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+img{
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
+    
+}
