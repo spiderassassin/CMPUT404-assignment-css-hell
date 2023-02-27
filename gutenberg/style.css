@@ -1,0 +1,40 @@
+body{
+    background-color: #fffdd0;
+}
+h1{
+    background-color: maroon;
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    /*-webkit-text-stroke: 2px black;*/
+
+}
+h2{
+    background-color: black;
+    color: goldenrod;
+    font-family: cursive;
+    font-style: italic;
+    
+}
+
+.no-break{
+    background-color: black;
+    color: goldenrod;
+    font-family: cursive;
+    font-style: italic;
+
+}
+
+h3{
+    background-color: rebeccapurple;
+    color: goldenrod;
+    font-family: cursive;
+    font-style: italic;
+    /*-webkit-text-stroke: 2px black;*/
+
+}
+
+.drama{
+    text-align: left;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;;
+}
